@@ -1,0 +1,11 @@
+{
+  "version": "0.0.16",
+  "url": "https://google.com",
+  "servers": [
+    {
+      "name": "Mi Servidor SAMP",
+      "ip": "172.96.140.62",
+      "port": 6369
+    }
+  ]
+}
